@@ -7,6 +7,7 @@ body{
 }
 
 #todo-container{
+  position: absolute;
   background: rgb(255, 255, 255);
   width: 400px;
   margin: 0 auto;
